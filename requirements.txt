@@ -1,0 +1,3 @@
+mplfinance
+selenium
+yfinance
